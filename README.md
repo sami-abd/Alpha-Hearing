@@ -4,8 +4,8 @@
 **This project is not a real medical device and is intended solely as a project and proof of concept. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Please consult a licensed medical professional for any concerns regarding your hearing health.**
 
 ## Visuals
-![Device Image](/device.png)
-![Circuit Diagram](/circuit.png)
+![Device Image](/images/device.png)
+![Circuit Diagram](/images/circuit.png)
 
 ## Introduction
 Alpha Hearing, also known as Portable Hearing Test (PHT), is a device designed to conduct self-diagnostic hearing tests. The device plays audio tones from an SD card and logs the decibel level at which the user detects the sound, providing a quick assessment of the user's hearing capabilities. This device is the first functioning prototype created as a 2nd Year Electrical Engineering Project.
